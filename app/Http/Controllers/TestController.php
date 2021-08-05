@@ -7,6 +7,10 @@ use Illuminate\Http\Request;
 class TestController extends Controller
 {
  public function test(){
-    print("something)    
+    print("something);    
+ }
+ 
+ public function test2(){
+    print("do Nothing")
  }
 }
