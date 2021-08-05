@@ -7,7 +7,8 @@ use Illuminate\Http\Request;
 class TestController extends Controller
 {
  public function test(){
-    print("something);    
+    print("something); 
+    print("abcd")
  }
  
  public function test2(){
