@@ -10,4 +10,8 @@ class TestController extends Controller
     print("something");
     print("abcd");
     }
+  
+    public function test2(){
+    
+    }
 }
