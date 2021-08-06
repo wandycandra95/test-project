@@ -11,7 +11,4 @@ class TestController extends Controller
     print("abcd")
  }
  
- public function test2(){
-    print("do Nothing")
- }
 }
