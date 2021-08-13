@@ -31,4 +31,8 @@ class TestController extends Controller
         print("a");
     }
 
+    public function test7(){
+
+    }
+
 }
