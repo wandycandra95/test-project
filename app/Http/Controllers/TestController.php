@@ -22,5 +22,9 @@ class TestController extends Controller
     public function test4(){
         print("a");
     }
+    
+    public function test5(){
+    
+    }
 
 }
