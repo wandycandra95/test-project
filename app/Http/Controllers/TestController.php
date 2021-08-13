@@ -19,4 +19,8 @@ class TestController extends Controller
         print("a");
     }
 
+    public function test4(){
+        print("a");
+    }
+
 }
